@@ -1,0 +1,7 @@
+.main{
+    font-family: poppins,serif;
+    /* height: 100vh; */
+    display: grid;
+    justify-content: center;
+    width: 100%;
+}

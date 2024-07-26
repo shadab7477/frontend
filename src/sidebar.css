@@ -1,0 +1,23 @@
+.sidebar{
+    /* padding: 0;
+    margin: 0; */
+    font-family: poppins,serif;
+}
+.sidebar span,a {
+    font-size:15px;
+    font-family: poppins,serif;
+
+}
+
+.main-content{
+    background-color: rgb(235,238,246);
+}
+
+.nav-pills{
+    padding: 20px;
+}
+.actived{
+    background-color: aqua;
+    font-size: 40px;
+    border: 1px solid black;
+}

@@ -1,0 +1,43 @@
+.main1{
+    /* background-color: #fdfded; */
+background-image: url("https://img.freepik.com/free-photo/top-view-painting-supplies-with-copy-space_23-2148563644.jpg?size=626&ext=jpg&ga=GA1.1.499116887.1710697775&semt=ais_user");
+    height: 80vh;
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    object-fit: fill;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    justify-content: center;
+}
+
+.signupbox{
+    margin-top: -50px;
+
+    /* margin-top:20px ; */
+    /* border-radius: 11px; */
+background: white;
+box-shadow: 1px 1px 5px rgb(187, 183, 183);
+    padding: 20px;
+    min-width:550px;
+    max-width: 700px;
+    height: 400px;
+}
+
+.signupbtn{
+    color: white;
+    border-radius: 30px;
+    margin-top: px;
+    padding: 5px 40px 5px 40px;
+    text-align: center;
+    transition: 0.2s ease-in-out;
+    background-color: rgb(51, 50, 50);
+}
+.signupbtn:hover{
+    transform: scale(1.1);
+    color: white;
+    background-color: black;
+
+}

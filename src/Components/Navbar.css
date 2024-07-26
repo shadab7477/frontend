@@ -1,0 +1,147 @@
+#logotext{color: rgb(255, 98, 98);
+    font-size: 18px;
+    font-family: poppins;
+}
+/* Navbar.css */
+.search-input {
+    display: none;
+  }
+  
+  .search-input.visible {
+    display: block;
+  }
+  
+.navbar{
+    /* background-color: rgb(235,238,246); */
+    min-width: 100%;
+    /* background-color: rgb(228,211,193); */
+    /* position: absolute; */
+    background-color:#fdfded;
+}
+
+#navlink{
+    /* background-color: aqua; */
+    font-size: 17px;
+    color: rgb(23, 23, 23) ;
+}
+
+.usericon{
+    color: rgb(80, 80, 80);
+}
+.nav-link{
+letter-spacing: 1px;
+  font-family:EB Garamond ,serif;
+
+}
+
+.signbtn{
+    padding: 5px 20px 5px 20px;
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(202,21,21);
+}
+
+.nav-item{
+    /* font-size: 50px; */
+}
+#offcanvasNavbar{
+    z-index: 9999;
+}
+
+.navsignupbtn{
+    color: white;
+    box-shadow: 2px 2px 5px rgb(198,168,125);
+    border-radius: 9px;
+    padding: 8px 25px 8px 25px;
+    background-color: rgb(198,168,125);
+}
+ul.nav li.dropdown:hover ul.dropdown-menu{ display: block; }
+
+.dropdown-menu{
+    text-decoration: none;
+}
+
+.navicon,.userdrop{
+    color:  rgb(90, 88, 88);
+}
+
+
+
+.search-container { 
+    position: relative;
+  }
+  
+  .search-input {
+
+color: white;
+    margin-right: 5px;
+    background-color: transparent;
+    border: none
+    ;
+    font-size: 20px;
+    padding: 5px;
+border-bottom: 1px solid white;
+    width: 0;
+    opacity: 0;
+    transition: width 0.3s, opacity 0.3s;
+  }
+  
+  .search-input.visible {
+margin-right: 5px;
+    background-color: transparent;
+    border: none
+    ;
+    border-radius: none;
+color: black;
+    font-size: 15px;
+    padding: 5px;
+border-bottom: 1px solid rgb(198,168,125);
+    width: 150px; /* Set your desired width */
+    opacity: 1;
+  }
+  .search-input.visible:focus{
+    background-color: transparent;
+    border-bottom: 3px solid rgb(198,168,125);
+
+    border-radius: 0px;
+    outline: none;
+  }
+  
+  .search-container .bi-search ,.navicon,.userdrop{
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .navicon:hover,.userdrop:hover{
+    color:rgb(198,168,125) ;
+    transform: scale(1.04);
+  }
+  
+  
+#ham{
+    height: 35px;
+}
+
+.navbar-nav{
+    flex-direction: row;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .hide-mobile,#hide{
+        display: block;
+    }
+}
+
+#mobishow{
+    display: none;
+}
+@media only screen and (min-width: 600px) {
+    #mobishow{
+display: block;
+    }
+}
+
+
+ul{
+    list-style-type: none;
+}

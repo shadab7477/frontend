@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+.mainhome{
+    /* overflow-y: hidden; */
+    overflow-x: hidden;
+    background-color: #fdfded;
+    background-position: center;
+    background-size: cover;
+
+    min-height: 90vh;
+    background-repeat: no-repeat;
+    /* background-image: url("https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=740&t=st=1720761360~exp=1720761960~hmac=21aec397c84e786d218ace491d07d1d82768f7f895a6ad6b371b9bf061ac6c19"); */
+}
+.home1 img{
+    background-size:cover;
+    width: 100%;
+    max-height: 100%;
+}
+.home1{
+    background-size:contain;
+    /* width: 100%; */
+    max-height: 80vh;
+}
+
+/* .rows{
+    width: 100%;
+    min-height: 100vh;
+}
+ */
+
+
+ .box {
+    overflow: hidden;
+    /* padding: 20px 0px 30px 0; */
+    background-size: cover;
+    text-align: center;
+border-radius: 17px;
+box-shadow: 1px 1px 5px rgb(148, 146, 146);
+border: 7px solid white;
+position: relative;
+    /* border: 1px solid #ccc; */
+    /* padding: 20px; */
+    background-color: white;
+    height: 250px;
+}
+
+@media only screen and (max-width: 600px) {
+    .upperbox{
+        /* padding-top: 30px; */
+        height: 350px;
+    }
+    .box{
+        height: 220px;
+    }
+    
+  .lastbrand{
+    /* max-width: 40px; */
+  }
+  }
+
+.overlay-text{
+    text-align: center;
+    color: rgb(77, 74, 74);
+/* font-family: Marck Script,serif; */
+    padding: 20px;
+    font-size: 30px;
+    /* text-align: left; */
+    font-weight: 200;
+    margin: 0px 0px 10px 10px;
+    position: absolute;
+}
+
+.borderup{
+    /* font-size: 90px; */
+    min-width: 20px;
+    border-bottom: 2px solid black;
+}
+
+html {
+    background-image: linear-gradient(#eee, #aaa);
+    height: 100%;
+  }
+  
+  
+.box img{ 
+    /* padding: 10px 0px 20px 0; */
+    
+    border-radius: 17px;
+
+    height: 100%;
+    /* border: 1px solid rgb(182, 179, 179); */
+    width: 100%;
+}
+.row {
+    margin-bottom: 10px;
+}
+.full-height {
+    height: 100%;
+} 
+.featuresimg{
+    
+}
+.featuresimg img{ 
+    overflow: visible;
+    padding: 40px;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+    background-color: rgb(243, 225, 207);
+}
+
+.featuresimg:nth-last-child(){ 
+    overflow: visible;
+    padding: 40px;
+    border-radius: 80% 40% 40% 30% / 80% 50% 70% 70% ;
+    background-color: rgb(179,147,114);
+}
+
+
+
+.tableuser{
+    background-color: #fdfded;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    
+#aboutimg{
+    width: 350px;
+}
+  }
+
+  .info-wrap{
+    background-color: rgb(179,147,114);
+  }

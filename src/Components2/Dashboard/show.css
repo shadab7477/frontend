@@ -1,0 +1,17 @@
+.welcome{
+    border-radius: 10px;
+    place-items: center;
+    place-content: center;
+    font-family: poppins,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainwelcome{
+    border-radius: 6px;
+}
+
+.table{
+
+    /* min-height: 100vh; */
+}
+th,td{
+    text-align: center;
+}

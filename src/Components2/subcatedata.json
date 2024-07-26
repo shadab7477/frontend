@@ -1,0 +1,306 @@
+[
+    {
+    "id": 3,
+    "cat_id": "3",
+    "name": "Clock Essentials",
+    "image": "image-1719408579.jpg",
+    "created_at": "2024-02-21 01:48:51",
+    "updated_at": "2024-06-26 13:29:39"
+    },
+    {
+    "id": 4,
+    "cat_id": "3",
+    "name": "Resin Essential",
+    "image": "image-1719408592.jpg",
+    "created_at": "2024-02-21 01:49:49",
+    "updated_at": "2024-06-26 13:29:52"
+    },
+    {
+    "id": 5,
+    "cat_id": "3",
+    "name": "Silicone Molds",
+    "image": "image-1719408603.jpg",
+    "created_at": "2024-02-22 10:17:42",
+    "updated_at": "2024-06-26 13:30:03"
+    },
+    {
+    "id": 7,
+    "cat_id": "8",
+    "name": "Premarked MDF",
+    "image": "image-1719408616.jpg",
+    "created_at": "2024-02-23 11:46:00",
+    "updated_at": "2024-06-26 13:30:16"
+    },
+    {
+    "id": 8,
+    "cat_id": "8",
+    "name": "Rectangular MDF",
+    "image": "image-1719408643.jpg",
+    "created_at": "2024-02-23 11:46:16",
+    "updated_at": "2024-06-26 13:30:43"
+    },
+    {
+    "id": 9,
+    "cat_id": "8",
+    "name": "Round MDF",
+    "image": "image-1719408654.jpg",
+    "created_at": "2024-02-23 11:46:29",
+    "updated_at": "2024-06-26 13:30:54"
+    },
+    {
+    "id": 10,
+    "cat_id": "9",
+    "name": "Mirrors",
+    "image": "image-1719408666.jpg",
+    "created_at": "2024-02-23 11:47:04",
+    "updated_at": "2024-06-26 13:31:06"
+    },
+    {
+    "id": 11,
+    "cat_id": "9",
+    "name": "Mouldit",
+    "image": "image-1719408677.jpg",
+    "created_at": "2024-02-23 11:47:13",
+    "updated_at": "2024-06-26 13:31:17"
+    },
+    {
+    "id": 12,
+    "cat_id": "3",
+    "name": "Glitters",
+    "image": "image-1719408688.jpg",
+    "created_at": "2024-02-23 11:48:03",
+    "updated_at": "2024-06-26 13:31:28"
+    },
+    {
+    "id": 13,
+    "cat_id": "3",
+    "name": "Granules",
+    "image": "image-1719408699.jpg",
+    "created_at": "2024-02-23 11:48:14",
+    "updated_at": "2024-06-26 13:31:39"
+    },
+    {
+    "id": 14,
+    "cat_id": "3",
+    "name": "Resin Markers",
+    "image": "image-1719408715.jpg",
+    "created_at": "2024-02-23 11:48:28",
+    "updated_at": "2024-06-26 13:31:55"
+    },
+    {
+    "id": 15,
+    "cat_id": "3",
+    "name": "Stands",
+    "image": "image-1719408731.jpg",
+    "created_at": "2024-02-23 11:48:54",
+    "updated_at": "2024-06-26 13:32:11"
+    },
+    {
+    "id": 16,
+    "cat_id": "3",
+    "name": "Stones",
+    "image": "image-1719408748.jpg",
+    "created_at": "2024-02-23 11:49:02",
+    "updated_at": "2024-06-26 13:32:28"
+    },
+    {
+    "id": 17,
+    "cat_id": "3",
+    "name": "Foils and Flakes",
+    "image": "image-1719408773.jpg",
+    "created_at": "2024-02-23 11:49:13",
+    "updated_at": "2024-06-26 13:32:53"
+    },
+    {
+    "id": 18,
+    "cat_id": "3",
+    "name": "Flowers",
+    "image": "image-1719408803.jpg",
+    "created_at": "2024-02-23 11:49:21",
+    "updated_at": "2024-06-26 13:33:23"
+    },
+    {
+    "id": 19,
+    "cat_id": "3",
+    "name": "Resin Tools",
+    "image": "image-1708688971.png",
+    "created_at": "2024-02-23 11:49:31",
+    "updated_at": "2024-02-23 11:49:31"
+    },
+    {
+    "id": 22,
+    "cat_id": "6",
+    "name": "Epoke Pigments",
+    "image": "image-1719408832.jpg",
+    "created_at": "2024-03-01 09:10:41",
+    "updated_at": "2024-06-26 13:33:52"
+    },
+    {
+    "id": 23,
+    "cat_id": "3",
+    "name": "Resin",
+    "image": "image-1719408846.jpg",
+    "created_at": "2024-03-02 10:14:49",
+    "updated_at": "2024-06-26 13:34:06"
+    },
+    {
+    "id": 24,
+    "cat_id": "6",
+    "name": "Glitters",
+    "image": "image-1719408862.jpg",
+    "created_at": "2024-03-02 10:33:44",
+    "updated_at": "2024-06-26 13:34:22"
+    },
+    {
+    "id": 25,
+    "cat_id": "6",
+    "name": "Mica powder",
+    "image": "image-1719408874.jpg",
+    "created_at": "2024-03-02 14:30:23",
+    "updated_at": "2024-06-26 13:34:34"
+    },
+    {
+    "id": 26,
+    "cat_id": "6",
+    "name": "Opaque Pigments",
+    "image": "image-1719408947.jpg",
+    "created_at": "2024-03-04 13:19:16",
+    "updated_at": "2024-06-26 13:35:47"
+    },
+    {
+    "id": 27,
+    "cat_id": "7",
+    "name": "Candle Essentials",
+    "image": "image-1719409085.jpg",
+    "created_at": "2024-03-04 14:56:36",
+    "updated_at": "2024-06-26 13:38:05"
+    },
+    {
+    "id": 28,
+    "cat_id": "12",
+    "name": "Fevicryl acrylic color",
+    "image": "image-1719409107.jpg",
+    "created_at": "2024-03-05 10:45:47",
+    "updated_at": "2024-06-26 13:38:27"
+    },
+    {
+    "id": 29,
+    "cat_id": "13",
+    "name": "Painting Brushes",
+    "image": "image-1719409125.jpg",
+    "created_at": "2024-03-20 14:43:49",
+    "updated_at": "2024-06-26 13:38:45"
+    },
+    {
+    "id": 30,
+    "cat_id": "3",
+    "name": "Alcohol Inks",
+    "image": "image-1719409145.jpg",
+    "created_at": "2024-03-26 14:22:57",
+    "updated_at": "2024-06-26 13:39:05"
+    },
+    {
+    "id": 31,
+    "cat_id": "13",
+    "name": "Tools",
+    "image": "image-1719409532.jpg",
+    "created_at": "2024-03-29 10:37:59",
+    "updated_at": "2024-06-26 13:45:32"
+    },
+    {
+    "id": 32,
+    "cat_id": "3",
+    "name": "Bezels",
+    "image": "image-1719409562.jpg",
+    "created_at": "2024-03-31 11:56:12",
+    "updated_at": "2024-06-26 13:46:02"
+    },
+    {
+    "id": 33,
+    "cat_id": "3",
+    "name": "Tassels",
+    "image": "image-1719409600.jpg",
+    "created_at": "2024-04-13 10:45:51",
+    "updated_at": "2024-06-26 13:46:40"
+    },
+    {
+    "id": 34,
+    "cat_id": "2",
+    "name": "Mantra and God Idols",
+    "image": "image-1719409617.jpg",
+    "created_at": "2024-04-13 11:23:09",
+    "updated_at": "2024-06-26 13:46:57"
+    },
+    {
+    "id": 35,
+    "cat_id": "14",
+    "name": "Frames",
+    "image": "image-1719409641.jpg",
+    "created_at": "2024-04-17 09:45:33",
+    "updated_at": "2024-06-26 13:47:21"
+    },
+    {
+    "id": 36,
+    "cat_id": "3",
+    "name": "Rakhi essentials",
+    "image": "image-1719409655.jpg",
+    "created_at": "2024-04-25 13:00:17",
+    "updated_at": "2024-06-26 13:47:35"
+    },
+    {
+    "id": 37,
+    "cat_id": "3",
+    "name": "Stickers",
+    "image": "image-1719409718.jpg",
+    "created_at": "2024-04-29 10:16:40",
+    "updated_at": "2024-06-26 13:48:38"
+    },
+    {
+    "id": 38,
+    "cat_id": "3",
+    "name": "Miniature",
+    "image": "image-1719409739.jpg",
+    "created_at": "2024-05-01 11:36:12",
+    "updated_at": "2024-06-26 13:48:59"
+    },
+    {
+    "id": 39,
+    "cat_id": "3",
+    "name": "Metal Tray Handles",
+    "image": "image-1719409756.jpg",
+    "created_at": "2024-05-01 13:11:45",
+    "updated_at": "2024-06-26 13:49:16"
+    },
+    {
+    "id": 40,
+    "cat_id": "4",
+    "name": "Others",
+    "image": "image-1719409771.jpg",
+    "created_at": "2024-05-03 14:14:22",
+    "updated_at": "2024-06-26 13:49:31"
+    },
+    {
+    "id": 41,
+    "cat_id": "7",
+    "name": "Wax",
+    "image": "image-1719409790.jpg",
+    "created_at": "2024-05-17 13:58:47",
+    "updated_at": "2024-06-26 13:49:50"
+    },
+    {
+    "id": 42,
+    "cat_id": "3",
+    "name": "Beads",
+    "image": "image-1719410067.jpg",
+    "created_at": "2024-05-20 07:41:15",
+    "updated_at": "2024-06-26 13:54:27"
+    },
+    {
+    "id": 43,
+    "cat_id": "5",
+    "name": "Canvas Board",
+    "image": "image-1719410081.jpg",
+    "created_at": "2024-06-01 08:09:49",
+    "updated_at": "2024-06-26 13:54:41"
+    }
+    ]

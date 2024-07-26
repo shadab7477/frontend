@@ -1,0 +1,25 @@
+.tableuser{
+    z-index: 999;
+}
+
+
+@media only screen and (max-width: 600px) {
+   
+    
+.tableuser,label{
+font-size: 6px;
+}
+
+
+  }
+
+
+  .userdetail{
+  font-family:EB Garamond ,serif;
+font-size: 19px;
+  }
+
+  .userdeatilcard{
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px rgb(218, 198, 178);
+  }

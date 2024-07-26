@@ -1,0 +1,103 @@
+#shopmain{
+    /* padding-top: 30px; */
+    /* margin: 0 20px 0 20px; */
+    
+    padding-top: 10px;
+    background-color: rgb(253,253,237);
+}
+
+#products{
+    border-top: 4px solid rgb(244, 227, 210);
+    border-left: 4px solid rgb(244, 227, 210);
+
+    min-height: 90vh;
+    /* box-shadow: 1px 1px 5px rgb(119, 117, 117); */
+    /* border-radius: 40px 0px 0px 0px ; */
+}
+
+.shopcard{
+    box-shadow: 1px 1px 5px rgb(204, 201, 201);
+    border-radius: 6px ;
+
+    /* padding: 10px; */
+    overflow: hidden;
+    /* background-color: antiquewhite; */
+}
+#price{
+
+    color: white;
+    background-color: black;
+    /* font-family: poppins; */
+    border: 1px solid rgb(126, 124, 124);
+    /* outline: none; */
+    /* outline: 1px solid rgb(78, 75, 75); */
+    /* border-radius: 8px; */
+}
+#price:focus{
+    outline: none;
+    border: 1px solid rgb(126, 124, 124);
+
+}
+
+.categorysec,.sort,.showing{
+    font-family: poppins,serif;
+}
+.categorysec h4{
+    text-align: center;
+    /* border-radius: 30px; */
+}
+
+.categorybtn,.subcategorybtn{
+    border-radius: 5px;
+    /* border: 1px solid rgb(243, 239, 237); */
+    /* text-align: left; */
+    /* width: 100%; */
+}
+.categorybtnselect{
+    
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(179,147,114);
+
+    /* text-align: left; */
+}
+
+
+.subcategorybtnselect{
+    
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(179,147,114);
+}
+
+.categorybtn:hover,.categorybtnselect:hover{
+ 
+    color: white;
+    background-color: rgb(179,147,114);
+
+}
+.productcat{
+    border-radius: 5px;
+    background-color: rgb(179,147,114);
+}
+
+.activeed{
+    background-color: black;
+}
+
+
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  background: rgb(182, 136, 91); /* Thumb color */
+  cursor: pointer; /* Pointer/hand icon */
+  border-radius: 50%; /* Rounded corners */
+}
+
+/* Firefox */
+input[type="range"]::-moz-range-thumb {
+  background: rgb(173, 131, 88); /* Thumb color */
+  cursor: pointer; /* Pointer/hand icon */
+  border-radius: 50%; /* Rounded corners */
+}

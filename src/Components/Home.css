@@ -1,0 +1,63 @@
+.main{
+    padding-top: 100px;
+    background-position: center;
+background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://templates.hibootstrap.com/tezor/default/assets/images/home-one/bg-shape.png");
+}
+
+
+.imgbox{
+
+    /* border-radius: 10px; */
+    
+}
+
+.imgbox1{
+    padding-top: 30px;
+    width: 300px;
+    height: 400px;
+    animation: upDown 2s infinite alternate;
+
+}
+
+.imgbox2{
+    
+    padding-top: 30px;
+    width: 300px;
+    height: 400px;
+    animation: upDown 3s infinite alternate;
+}
+
+@keyframes upDown {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-10px);
+    }
+}
+.imgbox img{
+    /* border-radius: 10px; */
+
+}
+
+
+.hometext{
+font-size: 70px;
+    display: grid;
+    justify-content: center;
+    place-items: center;
+}
+
+.hometext h2{
+    text-transform: uppercase;
+    font-size: 70px;
+}
+
+.crafttext{
+    font-family: Caveat,serif;
+color: rgb(200,72,88);
+}
